@@ -1,3 +1,13 @@
 Antiban
 
 randomly click north
+null checks on everything
+
+Entity bankChest = objects.closest("Bank chest");
+if ^ returns null
+
+enable escape closes
+
+lambda
+
+http://tutorials.jenkov.com/java/lambda-expressions.html
