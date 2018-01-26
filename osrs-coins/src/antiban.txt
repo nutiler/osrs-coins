@@ -1,13 +1,23 @@
-Antiban
-
+# Antiban
+misclicks, afk'ing, talking, etc
+Hover over next npc (on random times)
+Hover over food (on random times)
+Move mouse out of screen (on random times)+
+auto talk to other bots when getting boots too
+right click players
+examine object
 randomly click north
+
+# Fail Safe
 null checks on everything
+check conditionals to see if it's doing the right thing, if the script logs / laggs out can it pick up and resume?
 
 Entity bankChest = objects.closest("Bank chest");
-if ^ returns null
+if ^ returns null then what? walk to bank?
 
 enable escape closes
 
-lambda
-
+condense code
 http://tutorials.jenkov.com/java/lambda-expressions.html
+
+turn big fat file into classes lol whoops
