@@ -7,6 +7,8 @@ auto talk to other bots when getting boots too
 right click players
 examine object
 randomly click north
+say what it types out, bunch of spacebars, withdraw amounts- ge items ect.
+misclicks and corrections
 
 # Fail Safe
 null checks on everything
@@ -21,3 +23,8 @@ condense code
 http://tutorials.jenkov.com/java/lambda-expressions.html
 
 turn big fat file into classes lol whoops
+
+etxtra numbers into enter bar
+move mouse off screen
+
+https://tribot.org/forums/topic/31969-guide-to-implementing-anti-ban-compliance/
